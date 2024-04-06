@@ -12,7 +12,7 @@
 
 ## Step 1: 
 ```
-docker-coompose up --build
+docker-compose up --build
 ```
 
 ## Step 2: 
